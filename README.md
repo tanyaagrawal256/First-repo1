@@ -1,3 +1,3 @@
-# First-repo1
- This is my first github repository1.
+# First-repo
+ This is my first github repository.
 this is second line
